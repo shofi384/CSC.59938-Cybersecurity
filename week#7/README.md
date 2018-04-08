@@ -30,7 +30,7 @@ Time spent: >20 hours spent in total
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Shofiqur Rahman]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
