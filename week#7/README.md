@@ -11,6 +11,7 @@ Time spent: >20 hours spent in total
     Vulnerability types: XSS Attack
       Tested in version: 4.2
       Fixed in version: 4.6.1
+        GIF Walkthrough: ![alt text](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/week%237/week%237_1.gif)
       
 2. Vulnerability Name: User Enumeration
       Summary: User Enumeration to find a valid user
