@@ -13,22 +13,15 @@ Time spent: >20 hours spent in total
     - Fixed in version: 4.6.1
   - [ ] GIF Walkthrough: ![alt text](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/week%237/week%237_1.gif)
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-## Pentesting Report
-
-1. Vulnerability Name: XSS Attack
-  Exploiting XSS Attack
-    Vulnerability types: XSS Attack
-      Tested in version: 4.2
-      Fixed in version: 4.6.1
-        GIF Walkthrough: ![alt text](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/week%237/week%237_1.gif)
-      
-2. Vulnerability Name: User Enumeration
-      Summary: User Enumeration to find a valid user
-        Vulnerability types: User Enumeration
-        Tested in version: 4.2
-        Fixed in version: 4.7.5
-          GIF Walkthrough: ![alt text](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/week%237/week%237_2.gif)
-
+    
+2. (Required) Vulnerability Name: User Enumeration
+  - [ ] Summary: User Enumeration to find a valid user
+    - Vulnerability types: User Enumeration
+    - Tested in version: 4.2
+    - Fixed in version: 4.7.5
+  - [ ] GIF Walkthrough: ![alt text](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/week%237/week%237_2.gif)
+    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+ 
 ## Resources
 
 - [WordPress Source Browser](https://core.trac.wordpress.org/browser/)
