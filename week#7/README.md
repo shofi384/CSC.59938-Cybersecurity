@@ -18,6 +18,7 @@ Time spent: >20 hours spent in total
         Vulnerability types: User Enumeration
         Tested in version: 4.2
         Fixed in version: 4.7.5
+          GIF Walkthrough: ![alt text](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/week%237/week%237_2.gif)
 
 ## Resources
 
