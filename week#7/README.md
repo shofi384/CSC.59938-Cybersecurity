@@ -6,7 +6,7 @@ Time spent: >20 hours spent in total
 
 ## Pentesting Report
 
-1. (Required) Vulnerability Name: XSS Attack
+1. Vulnerability Name: XSS Attack
   - [ ] Summary: XSS Attack by posting harmful code in post
     - Vulnerability types: XSS
     - Tested in version: 4.2
@@ -14,13 +14,13 @@ Time spent: >20 hours spent in total
   - [ ] GIF Walkthrough: ![alt text](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/week%237/week%237_1.gif)
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
     
-2. (Required) Vulnerability Name: User Enumeration
+2. Vulnerability Name: User Enumeration
   - [ ] Summary: User Enumeration to find a valid user
     - Vulnerability types: User Enumeration
     - Tested in version: 4.2
     - Fixed in version: 4.7.5
   - [ ] GIF Walkthrough: ![alt text](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/week%237/week%237_2.gif)
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 2](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
  
 ## Resources
 
