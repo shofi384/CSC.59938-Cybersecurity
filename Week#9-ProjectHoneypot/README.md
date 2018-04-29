@@ -4,6 +4,8 @@ Time spent: >20 hours spent in total
 
 > Objective: 
 
+## The Honeypot: Honeypot Dionaea over HTTP is deployed. It is a honeypot used to trap malware samples.
+
 MHN supports multiple honeypots, each of which has a slightly different purpose you can read about. To start, we'll deploy Dionaea over HTTP, a honeypot used to trap malware samples.
 First, create a VM for your first honeypot via your cloud provider. 
 
