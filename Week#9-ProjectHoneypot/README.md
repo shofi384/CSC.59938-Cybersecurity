@@ -19,7 +19,7 @@ In addition, Ubuntu-Snort as mhn-honeyport-3 is stood up.
 The issue that most frequently faced is the session timeout while trying to install MHN admin application. The installation would go half way with some of the parameters set and halt in the middle giving me the message of connection time out. The next time the install command is run, the already set parameters would interfere with the new installations and give some error messageses including database error. The issue was resolved by removing VM instance from the Google cloud and everything else from the host including gcloud and redo the setup instructions again.
 
 ### GIF Walkthrough:
-      [GIF](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/Week%239-ProjectHoneypot/week%239.gif)
+      ![GIF](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/Week%239-ProjectHoneypot/week%239.gif)
 
 ### Summary of all the Attacks on all Honeypots: 
   ![Summary Statistics](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/Week%239-ProjectHoneypot/summaryStat.jpg)
