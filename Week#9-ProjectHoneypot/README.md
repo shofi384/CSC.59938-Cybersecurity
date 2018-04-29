@@ -20,5 +20,4 @@ The issue that most frequently faced is the session timeout while trying to inst
   ![Summary Statistics](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/Week%239-ProjectHoneypot/summaryStat.jpg)
 
 
-### Exported Data: 
-  ![Exported Data](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/Week%239-ProjectHoneypot/exportedData)
+### ![Exported Data](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/Week%239-ProjectHoneypot/exportedData)
