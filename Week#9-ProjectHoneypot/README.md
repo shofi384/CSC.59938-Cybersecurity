@@ -6,6 +6,7 @@ Time spent: >20 hours spent in total
 
 ### The Honeypot Built:
 A honeypot is a decoy application, server, or other networked resource that intentionally exposes insecure features which, when exploited by an attacker, will reveal information about the methods, tools, and possibly even the identity of that attacker. For this assignment, Honeypot Dionaea over HTTP is deployed as mhn-honeypot-1. It is a honeypot used to trap malware samples.
+
 In addition, Ubuntu-Snort as mhn-honeyport-3 is stood up.
 > An overview of the steps taken includes;
 > - Sign up for a Google cloud account
@@ -21,4 +22,4 @@ The issue that most frequently faced is the session timeout while trying to inst
   ![Summary Statistics](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/Week%239-ProjectHoneypot/summaryStat.jpg)
 
 
-### ![Exported Data](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/Week%239-ProjectHoneypot/exportedData)
+### [Exported Data](https://github.com/shofi384/CSC.59938---Web-Security/blob/master/Week%239-ProjectHoneypot/exportedData)
